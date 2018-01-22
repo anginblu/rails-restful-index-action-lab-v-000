@@ -1,5 +1,5 @@
 class StudentsController < ApplicationController
-  def students
+  def index
     render "index"
   end
 end
